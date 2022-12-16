@@ -1,1 +1,3 @@
-console.log("Package.json");
+var colors = require("colors");
+
+console.log("Package.json".bgGreen);
