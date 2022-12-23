@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/miyannishar/Nodejs-Tutorial#readme",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "mongodb": "^4.13.0"
   }
 }
